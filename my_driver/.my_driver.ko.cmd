@@ -1,0 +1,1 @@
+cmd_/home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.ko /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.o /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.mod.o;  true

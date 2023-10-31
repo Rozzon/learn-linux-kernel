@@ -1,0 +1,1 @@
+cmd_/home/limingchao/ctest/linux_driver_test/my_driver4/Module.symvers := sed 's/\.ko$$/\.o/' /home/limingchao/ctest/linux_driver_test/my_driver4/modules.order | scripts/mod/modpost -m -a  -o /home/limingchao/ctest/linux_driver_test/my_driver4/Module.symvers -e -i Module.symvers   -T -

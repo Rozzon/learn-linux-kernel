@@ -1,0 +1,1 @@
+cmd_/home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.mod := { echo  /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.o;  echo; } > /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.mod

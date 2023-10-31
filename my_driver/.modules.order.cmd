@@ -1,0 +1,1 @@
+cmd_/home/limingchao/ctest/linux_driver_test/my_driver4/modules.order := {   echo /home/limingchao/ctest/linux_driver_test/my_driver4/my_driver.ko; :; } | awk '!x[$$0]++' - > /home/limingchao/ctest/linux_driver_test/my_driver4/modules.order
